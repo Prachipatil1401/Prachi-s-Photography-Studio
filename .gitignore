@@ -1,0 +1,17 @@
+# Ignore build directory
+/target/
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.rar
+
+# Ignore IntelliJ or Eclipse config files
+*.iml
+.idea/
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
