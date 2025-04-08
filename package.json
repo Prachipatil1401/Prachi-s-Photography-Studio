@@ -1,0 +1,18 @@
+{
+  "name": "fsd-project-photographystudio",
+  "version": "1.0.0",
+  "description": "a basic app to deploy ",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Prachi Patil",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
