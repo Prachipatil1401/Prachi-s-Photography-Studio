@@ -1,11 +1,17 @@
-# Ignore build directory
-/target/
+# Ignore build output
+target/
+build/
 
 # Ignore generated files
 *.class
 *.jar
 *.war
+*.jar.original
+
+# Ignore archives
 *.rar
+*.zip
+*.7z
 
 # Ignore IntelliJ or Eclipse config files
 *.iml
