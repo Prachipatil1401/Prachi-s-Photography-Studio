@@ -178,9 +178,11 @@ photographystudio/
 
 ## 🎥 Video Demo
 
-Watch the full demo of the Photography Studio application:
+The full demo video of the Photography Studio application is available in the repository:
 
-[Video Demo](Scree/Screenshots/Video.mp4)
+[Scree/Screenshots/Video.mp4](Scree/Screenshots/Video.mp4)
+
+*Note: The video file is large (95.79 MB) and may not display inline on GitHub. Please download it to view the demo.*
 
 ## 🤝 Contributing
 
