@@ -73,14 +73,13 @@ body {
 }
 
 .header {
-  min-height: 600px;
-  background-image: radial-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.9)),
-    url("assets/Aditi Prachi Header.jpg");
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
+    min-height: 600px;
+    background-image: radial-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.9)),
+      url("assets/image.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
   
 nav {
   position: fixed;
@@ -329,6 +328,7 @@ nav {
   background-repeat: no-repeat;
 }
 
+
 .blog__container {
   padding-block: 8rem;
   display: grid;
@@ -385,45 +385,6 @@ nav {
     transform: translateX(calc(-50% - 0.5rem));
   }
 }
-
-/* Contact Form Styling */
-.contact-form {
-  max-width: 500px;
-  margin: auto;
-  padding: 20px;
-}
-
-.contact-form input,
-.contact-form textarea {
-  width: 100%;
-  padding: 10px;
-  margin: 10px 0;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  font-size: 16px;
-}
-
-.contact-form textarea {
-  height: 100px;
-  resize: none;
-}
-
-.contact-form button {
-  width: 100%;
-  padding: 10px;
-  background-color: #000;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  font-size: 16px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-.contact-form button:hover {
-  background-color: #444;
-}
-
 
 .footer__container {
   display: grid;
